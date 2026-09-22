@@ -2,7 +2,6 @@ venv/
 __pycache__/
 *.pyc
 books.db
-exported_books.csv
 price_vs_rating.png
 uvicorn.out.log
 uvicorn.err.log
